@@ -1,6 +1,13 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&size=36&duration=3000&pause=3000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=150&lines=Zakary+Timson;DevOps+%26+Software+Engineer;https%3A%2F%2Fzakscode.com)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&size=36&duration=3000&pause=3000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=150&lines=Zakary+Timson;DevOps+%26+Software+Engineer)
+
+
+  ---
+
+  zaktimson@gmail.com • [zakscode.com](https://zakscode.com) • [git.zakscode.com](https://git.zakscode.com)
+
+  ---
 
   <div>
     
