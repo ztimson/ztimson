@@ -34,14 +34,12 @@
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
 
   </div>
+  <br><br>
+
+  <div>
+
+![Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ztimson&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ztimson&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+  </div>
 </div>
-
-## Products & Services
-[![Momentum](https://github-readme-stats.vercel.app/api/pin/?username=ztimson&repo=momentum&border_color=00aa00&bg_color=0D1117&title_color=00ff00&text_color=8B949E&icon_color=00ff00)](https://github.com/ztimson/momentum)
-[![Momentum](https://github-readme-stats.vercel.app/api/pin/?username=ztimson&repo=momentum&border_color=00aa00&bg_color=0D1117&title_color=00ff00&text_color=8B949E&icon_color=00ff00)](https://github.com/ztimson/momentum)
-
-## Open Source
-[![Momentum](https://github-readme-stats.vercel.app/api/pin/?username=ztimson&repo=momentum&border_color=00aa00&bg_color=0D1117&title_color=00ff00&text_color=8B949E&icon_color=00ff00)](https://github.com/ztimson/momentum)
-[![Momentum](https://github-readme-stats.vercel.app/api/pin/?username=ztimson&repo=momentum&border_color=00aa00&bg_color=0D1117&title_color=00ff00&text_color=8B949E&icon_color=00ff00)](https://github.com/ztimson/momentum)
-
-[![All Repos](https://img.shields.io/badge/All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://git.zakscode.com)
