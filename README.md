@@ -42,12 +42,12 @@
  <tr>
   <td>
       
-![Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ztimson&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ztimson&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/ztimson)
   
   </td>
   <td>
     
-![Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ztimson&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ztimson&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/ztimson)
   
   </td>
  </tr>
